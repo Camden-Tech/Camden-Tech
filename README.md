@@ -1,7 +1,16 @@
-### Hi there 👋
+## 👋 heyo, i'm camden
+
+<p>💡 i'm a low-level developer working in many languages such as c#, java, and c++</p>
+<p>🌱 i'm currently expanding on my 🖥️ c++ knowledge and experimenting with 🎮 game development</p>
+<p>🔭 i'm currently not focusing on any projects, however i am looking for one</p>
+<p> 📫 you can reach me by contacting me on discord, BaddCamden#4954</p>
+
+<img src="https://komarev.com/ghpvc/?username=Camden-Tech" alt="Camden-Tech Profile View Counter">  [![OS](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=windows&logoColor=blue)](https://en.wikipedia.org/wiki/Windows) [![WebEditor](https://img.shields.io/badge/IDE-VSCode-blue?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/) ![YML](https://img.shields.io/badge/Setup-YML-blue?style=flat-square&logo=when-i-work&logoColor=white) ![dotFiles](https://img.shields.io/badge/Setup-DotFiles-blue?style=flat-square&logo=when-i-work&logoColor=white) [![Species](https://img.shields.io/badge/Species-Homo_Sapiens-success?style=flat-square&logo=mailchimp&logoColor=white)](https://en.wikipedia.org/wiki/Homo_sapiens)
+
+<img src="https://github-readme-stats.vercel.app/api?username=Camden-Tech&show_icons=true&theme=gotham" alt="Camden-Tech GitHub Stats">
 
 <!--
-**Camden-Tech/Camden-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JosTheDude/JosTheDude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
