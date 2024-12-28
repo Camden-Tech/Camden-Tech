@@ -1,6 +1,6 @@
 ## 👋 heyo, i'm camden
 
-<p>💡 i'm a low-level developer working in many languages such as c#, java, and c++</p>
+<p>💡 i'm a developer working in many languages such as c#, java, and c++ with a preference for low level languages</p>
 <p>🌱 i'm currently expanding on my 🖥️ c++ knowledge and experimenting with 🎮 game development</p>
 <p>🔭 i'm currently not focusing on any projects, however i am looking for one</p>
 <p> 📫 you can reach me by contacting me on discord, BaddCamden#4954</p>
